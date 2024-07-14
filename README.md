@@ -29,8 +29,8 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/blackjack-web-app.git
-   cd blackjack-web-app
+   git clone https://github.com/gyalecta/flask_blackjack.git
+   cd flask_blackjack
    ```
 
 2. **Set up a virtual environment:**
@@ -48,11 +48,11 @@ To run this application locally, follow these steps:
    ```bash
    flask run
    ```
-   The application will be accessible at `http://127.0.0.1:5000`.
+   The application will be accessible at `http://127.0.0.1:8080`.
 
 ## Usage
 
-1. Open your web browser and navigate to `http://127.0.0.1:5000`.
+1. Open your web browser and navigate to `http://127.0.0.1:8080`.
 2. Start a new game by clicking the "New Game" button.
 3. Use the "Hit" button to draw a card, or the "Stand" button to hold your total.
 4. The dealer will automatically play after you stand.
